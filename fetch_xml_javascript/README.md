@@ -12,4 +12,4 @@ async function getXMLfromURL(url) {
         console.log(error)
     }
 }
-```js
+```
